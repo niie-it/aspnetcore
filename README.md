@@ -26,3 +26,11 @@ git config --global user.email "YOUR_EMAIL"
     git push origin HEAD:<name-of-remote-branch>
     ```
   * After push commit, should ```git pull``` before do code changes for next task
+
+* EF COFE
+  * INSTALL ENTITY FRAMEWORK CORE NUGET PACKAGES
+   ```
+    Microsoft.Entityframeworkcore
+    Microsoft.Entityframeworkcore.SqlServer
+    Microsoft.Entityframeworkcore.Tools
+  ```
